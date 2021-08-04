@@ -1,0 +1,6 @@
+GET http://localhost:1337/articles
+
+###
+
+
+GET http://localhost:1337/categories/news
