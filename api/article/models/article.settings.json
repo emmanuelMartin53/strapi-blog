@@ -49,6 +49,14 @@
     "author": {
       "via": "articles",
       "model": "writer"
+    },
+    "related_articles": {
+      "type": "component",
+      "repeatable": false,
+      "component": "sections.related-articles"
+    },
+    "data": {
+      "type": "json"
     }
   }
 }

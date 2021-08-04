@@ -1,0 +1,17 @@
+{
+  "collectionName": "components_sections_related_articles",
+  "info": {
+    "name": "related_articles",
+    "icon": "archway",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "articles": {
+      "collection": "article"
+    },
+    "categories": {
+      "collection": "category"
+    }
+  }
+}

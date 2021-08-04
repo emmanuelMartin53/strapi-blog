@@ -1,6 +1,6 @@
-GET http://localhost:1337/articles
+GET http://localhost:1337/articles/what-s-inside-a-black-hole/related
 
 ###
 
 
-GET http://localhost:1337/categories/news
+GET http://localhost:133/categories/news
